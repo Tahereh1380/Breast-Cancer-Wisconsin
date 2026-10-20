@@ -1,8 +1,8 @@
-\# Breast Cancer Classification
+\ **Breast Cancer Classification**
 
 
 
-\## Overview
+\ **Overview**
 
 
 
@@ -10,7 +10,7 @@ This project explores machine learning methods for breast cancer classification 
 
 
 
-\## Dataset
+\ **Dataset**
 
 
 
@@ -30,7 +30,7 @@ The local CSV file should be checked against the original dataset before claimin
 
 
 
-\## Project Structure
+\ **Project Structure**
 
 
 
@@ -44,7 +44,7 @@ The local CSV file should be checked against the original dataset before claimin
 
 
 
-\## Requirements
+\ **Requirements**
 
 
 
@@ -64,7 +64,7 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib jupyter
 
 
 
-\## How to Run
+\ **How to Run**
 
 
 
@@ -80,7 +80,7 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib jupyter
 
 
 
-\## Data Attribution
+\ **Data Attribution**
 
 
 
